@@ -12,10 +12,10 @@ The Logic was derived using Karnaugh Maps for segments 'a' through 'g'.
 
 The physical design of the standard 7-segment display is:
     a
-   ---
+   ___
  f|   |b
    -g- 
  e|   |c
-   ---
+   ___
     d
 also b0 is the least significant bit whereas b3 is the most significant bit
