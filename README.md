@@ -29,3 +29,6 @@ The physical design of the standard 7-segment display is:
     \    \
 
      --d--
+
+
+also b0 is the least significant bit whereas b3 is the most significant bit
