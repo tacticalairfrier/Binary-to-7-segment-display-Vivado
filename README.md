@@ -11,24 +11,11 @@ This project demonstrates the complete design flow of a combinational logic circ
 The Logic was derived using Karnaugh Maps for segments 'a' through 'g'.
 
 The physical design of the standard 7-segment display is:
-
-   --a--
-
-   \   \
-
-   f    b
-
-   \    \
-
-    --g--
-
-    \    \
-
-    e    c
-
-    \    \
-
-     --d--
-
-
+    a
+   ---
+ f|   |b
+   -g- 
+ e|   |c
+   ---
+    d
 also b0 is the least significant bit whereas b3 is the most significant bit
