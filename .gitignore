@@ -1,0 +1,40 @@
+# Vivado generated folders and files
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.debug
+*.tmp
+*.zip
+*.rpt
+*.dmp
+*.pb
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.html
+*.xml
+*.backup*
+*.backupLog
+vivado*
+*.xpe
+
+# Simulation / heavy files
+xsim.*
+xelab.*
+xsim.dir/
+.sim/
+*.wdb
+#*.wcfg
+
+# IP / generated sources you can re-generate
+*_stub.v
+*_stub.vhdl
+*_funcsim.v
+*_funcsim.vhdl
